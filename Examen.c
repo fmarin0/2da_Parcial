@@ -3,7 +3,7 @@
 
 int list[0];
 
-int ordenamiento(int list[], int n)
+int ord(int list[], int n)
 {
 	int min=0;
 	int indexMin=0;
