@@ -12,20 +12,3 @@ int pseudo(int list, int n)
 
 			}
 	}
-	
-	if (indexMin!=i)
-
-        return
-	
-}
-
-void main (){
-
-	int n=0;
-	printf("Ingrese el valor del numero: ");
-	scanf("%d",&n);
-
-	int list=0;
-	pritf("He aqui el orden de los factores no altera el producto: ");
-	scanf("%d",&list);
-}
